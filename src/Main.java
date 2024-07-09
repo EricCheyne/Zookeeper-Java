@@ -89,7 +89,6 @@ public class Main {
                     case 3:
                         System.out.println("""
             Switching on the camera in the goose habitat...
-            
                                                 _
                                             ,-"" "".
                                           ,'  ____  `.
